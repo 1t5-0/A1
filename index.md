@@ -5,7 +5,7 @@ Layout: "page.njk"
 
 # This is my header
 
-page 1 using 11ty or eleventy, I don't know
+My first page using 11ty or eleventy, I don't know
 
 ## Features
 
